@@ -5,8 +5,8 @@ A premium car rental service in Kenya, offering competitive rates and exceptiona
 - Airport Transfers: Reliable transportation to and from airports, ensuring punctuality and comfort.
 - Jet Charters: Private jet charter services for clients seeking premium, on-demand air travel.
 
-## Irux Global Rewards
-As part of our customer-focused approach, we are introducing **Irux Global Rewards**, a loyalty program that allows customers to earn and redeem points across all Iruku Group Holdings services, including car rentals, jet charters, and future ventures. This rewards program is designed to enhance customer value and satisfaction across all touchpoints. More information will be announced soon.
+## Iruku Rewards
+As part of our customer-focused approach, we are introducing Iruku Rewards, a loyalty program that allows customers to earn and redeem points across all Iruku Group Holdings services, including car rentals, jet charters, and future ventures. This rewards program is designed to enhance customer value and satisfaction across all touchpoints. More information will be announced soon.
 
 ## Technology Stack
 - HTML for content structure.
